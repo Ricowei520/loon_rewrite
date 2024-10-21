@@ -1,3 +1,3 @@
 感谢大佬RuCu6 (https://github.com/RuCu6) 的本地规则，
-声讨让大佬退出的丝儿jqyisbest (https://github.com/jqyisbest) ，用别人的东西就得遵守别人的规则，这点道理都不懂吗。你上班上学都要遵守制定的规定，到网络上就不懂了？网络就是飞起来的地方？感觉你是想飞起来了。做了一回“正义人士”的滋味好受吧，估计还等着被夸呢，没有任何人想要夸你，毕竟你也不会维护，纯Joker。
+jqyisbest (https://github.com/jqyisbest) ，别骂人
 本仓库目的是继续使用大佬loon的插件
