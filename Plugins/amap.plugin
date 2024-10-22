@@ -1,7 +1,7 @@
 #!name = 高德地图
 #!desc = 缺德地图有治了。
 #!author = RuCu6[https://github.com/RuCu6], kokoryh[https://github.com/kokoryh]
-#!icon = https://github.com/Ricowei520/loon_rewrite/blob/main/Icons/app/amap.png
+#!icon = https://github.com/Ricowei520/loon_rewrite/blob/b9140991598ec3634834fc9e6acf1350445f9763/Icons/app/amap.png
 #!date = 2024-10-19 22:45
 
 [Rule]
