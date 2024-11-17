@@ -12,3 +12,4 @@ IP-ASN, 59930, 美国节点, no-resolve
 IP-ASN, 211157, 美国节点, no-resolve
 IP-CIDR, 5.28.192.0/18, 欧盟节点, no-resolve
 IP-CIDR, 109.239.140.0/24, 欧盟节点, no-resolve
+IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
